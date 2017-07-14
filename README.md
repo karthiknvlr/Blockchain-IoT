@@ -56,5 +56,8 @@ admin.peers
 
 - Peering will initially take the time to happen. Once it was done then block synchronization will happen, which you can able to view it in your geth console.
 
+## Script to compile and establish a contract in Blockchain network was given in Node folder.
+    This script will allow users to compile the contract and establish it in contract server.
+    
 ## Sample Code for controlling the IoT using Ion-Block was given in IoT-Blink folder.
-    This code will allow users to deploy the contract and control the blinkibng of LED based on the events.
+    This code will control the blinkibng of LED based on the events.
